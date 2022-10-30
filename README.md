@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedarth Kumtekar</h1>
+
 - 🔭 I’m currently working on **thryft.**
 
 - 🌱 I’m currently learning **Machine Learning and UI/UX development**
