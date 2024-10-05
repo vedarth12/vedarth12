@@ -4,7 +4,7 @@
 
 - 🔭 Ex-Intern at **GEM Integration Services Pvt. Ltd.**
 
-- 📫 How to reach me **vedarth2003@gmail.com**
+- 📫 How to reach me **vedarthkumtekar1203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
