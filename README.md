@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedarth Kumtekar</h1>
 
-- 🔭 Ex-Intern at **GEM Integration Services Pvt. Ltd.**
-
 - 🌱 I’m currently a student at **University College Dublin** pursuing **Masters in Data and Computational Science**
+
+- 🔭 Ex-Intern at **GEM Integration Services Pvt. Ltd.**
 
 - 📫 How to reach me **vedarth2003@gmail.com**
 
